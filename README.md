@@ -13,11 +13,19 @@ My name is Lee Tien Son
 - 📻 Music: ◢ ◤ (Avicii)
 - Sports: 🏋️ 🏸 ⚽️ 🥊🏋
 
+
+
 <table>
 <tr>
-  <td width="52%"><img alt="gif" align="right" src=".image"/></td>
+  
+<!--     <img src="https://user-images.githubusercontent.com/91727716/159331952-5e396cd0-8710-4463-8e20-c9e530a01788.png" /> -->
+   <img src="https://blog.japan-itworks.vn/storage/media/blog/2021/2/-1612498923-573.jpeg" />
+<!--    <img src="https://i0.wp.com/behindthecodes.net/wp-content/uploads/2020/02/feature-1.jpg?fit=1280%2C853&ssl=1" />  -->
+    
+ 
 </tr>
 <table>
+
 
 
 
