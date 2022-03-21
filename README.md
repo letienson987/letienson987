@@ -1,16 +1,22 @@
 ### Hi there 👋
+My name is Lee Tien Son
 
-<!--
-**letienson987/letienson987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇻🇳 I'm Vietnamese
+- 🔭 I'm currently working with duykhanhrc -- https://seniorautomationtest.com/
+- 🌱 I’m currently learning Django
+- 💬 Ask me about anything at https://letienson987.github.io/contactme/
+- 📫 How to reach me: Click on ⬈ ⬈ ⬈
+- 😄 Pronouns: Son
+- ⚡ Fun fact: I really want to find a new working environment
+- 💻 The laptop i am using 
+- 📻 Music: ◢ ◤ (Avicii)
+- Sports: 🏋️ 🏸 ⚽️ 🥊🏋
 
-Here are some ideas to get you started:
+☞ Please hire me because i always take responsibility for work and get along with colleagues 😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
