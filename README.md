@@ -11,7 +11,7 @@ My name is Lee Tien Son
 - ⚡ Fun fact: I really want to find a new working environment
 - 💻 The laptop i am using 
 - 📻 Music: <a href="https://www.youtube.com/channel/UCPHjpfnnGklkRBBTd0k6aHg" > ◢ ◤ (Avicii)</a>
-- Sports: 🏋️ 🏸 ⚽️ 🥊🏋
+- Sports: 🏋️ 🏸 
 
 
 
