@@ -17,12 +17,13 @@ My name is Lee Tien Son
 
 <table>
 <tr>
-  
-<!--     <img src="https://user-images.githubusercontent.com/91727716/159331952-5e396cd0-8710-4463-8e20-c9e530a01788.png" /> -->
-   <img src="https://blog.japan-itworks.vn/storage/media/blog/2021/2/-1612498923-573.jpeg" />
-<!--    <img src="https://i0.wp.com/behindthecodes.net/wp-content/uploads/2020/02/feature-1.jpg?fit=1280%2C853&ssl=1" />  -->
-    
- 
+  <td width="70%">
+    <img  alt="gif" align="center" src="gif/giphy.gif"/>
+    <img  alt="gif" align="left" src="gif/giphyxas.gif"/>
+  </td>  
+  <td width="30%">
+    <img alt="gif" align="right" src="gif/bug.gif"/>
+  </td>
 </tr>
 <table>
 
