@@ -10,19 +10,20 @@ My name is Lee Tien Son
 - 😄 Pronouns: Son
 - ⚡ Fun fact: I really want to find a new working environment
 - 💻 The laptop i am using 
-- 📻 Music: ◢ ◤ (Avicii)
+- 📻 Music: <a href="https://www.youtube.com/channel/UCPHjpfnnGklkRBBTd0k6aHg" > ◢ ◤ (Avicii)</a>
 - Sports: 🏋️ 🏸 ⚽️ 🥊🏋
 
 
 
 <table>
 <tr>
-  <td width="70%">
+  <td width="50%">
     <img  alt="gif" align="center" src="gif/giphy.gif"/>
-    <img  alt="gif" align="left" src="gif/giphyxas.gif"/>
+<!--     <img  alt="gif" align="left" src="gif/giphyxas.gif"/> -->
   </td>  
-  <td width="30%">
-    <img alt="gif" align="right" src="gif/bug.gif"/>
+  <td width="50%">
+<!--     <img alt="gif" align="right" src="gif/bug.gif"/> -->
+    <img  alt="gif" align="left" src="gif/giphyxas.gif"/>
   </td>
 </tr>
 <table>
