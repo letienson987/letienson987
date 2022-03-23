@@ -9,28 +9,31 @@ My name is Lee Tien Son
 - 📫 How to reach me: Click on       ⬈ ⬈ ⬈
 - 😄 Pronouns: Son
 - ⚡ Fun fact: I really want to find a new working environment
-- 💻 The laptop i am using 
-- 📻 Music: <a href="https://www.youtube.com/channel/UCPHjpfnnGklkRBBTd0k6aHg" > ◢ ◤ (Avicii)</a>
+-  📻 Music: <a href="https://www.youtube.com/channel/UCPHjpfnnGklkRBBTd0k6aHg" > ◢ ◤ (Avicii)</a>
+
 - Sports: 🏋️ 🏸 
+ 
 
 
-
-<table>
+<table  >
 <tr>
-  <td width="50%">
-    <img  alt="gif" align="center" src="gif/giphy.gif"/>
-<!--     <img  alt="gif" align="left" src="gif/giphyxas.gif"/> -->
+  <td width="400px">
+    <img  alt="gif" align="right" src="gif/giphy.gif"/>
   </td>  
-  <td width="50%">
-<!--     <img alt="gif" align="right" src="gif/bug.gif"/> -->
+  <td width="400px">
     <img  alt="gif" align="left" src="gif/giphyxas.gif"/>
   </td>
+  <td width="400px">
+    <img  alt="gif" align="center" src="gif/gym.gif"/>
+  </td>
+ 
 </tr>
 <table>
-
-<audio controls autostart="true">
-  <source src="gif/music.mp3" type="audio/ogg">
+  
+<audio controls autoplay>
+  <source src="gif/music.mp3" type="audio/mpeg">
 </audio>
+
 
 
 
