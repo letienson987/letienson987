@@ -3,14 +3,13 @@
 My name is Lee Tien Son
 
 - 🇻🇳 I'm Vietnamese
+- ❣ <a href="https://www.notion.so/Lee-Tien-Son-84a165483b864862a8fea60ee87bb624"> More about me! </a>
 - 🔭 I'm currently working with duykhanhrc -- https://seniorautomationtest.com/
-- 🌱 I’m currently learning Django
 - 💬 Contact me at https://letienson987.github.io/contactme/
 - 😄 Pronouns: Son
 - ⚡ Fun fact: I really want to find a new working environment
--  📻 Music: <a href="https://www.youtube.com/channel/UCPHjpfnnGklkRBBTd0k6aHg" > ◢ ◤ (Avicii)</a>
-- Sports: 🏋️ 🏸 
- 
+
+
 
 
 ### <table >
