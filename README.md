@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-My name is Lee Tien Son
+My name is Le Tien Son
 
 - 🇻🇳 I'm Vietnamese
 - ❣ <a href="https://www.notion.so/Lee-Tien-Son-84a165483b864862a8fea60ee87bb624"> More about me! </a>
