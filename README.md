@@ -25,10 +25,10 @@ My name is Le Tien Son
     <img width="310px" alt="gif" align="right" src="gif/giphy.gif"/>
   </td>  
   <td>
-    <img width="200px"  alt="gif" align="left" src="gif/giphyxas.gif"/>
+    <img width="250px"  alt="gif" align="left" src="gif/giphyxas.gif"/>
   </td>
   <td>
-    <img width="100px" alt="gif" align="center" src="gif/gym.gif"/>
+    <img width="200px" alt="gif" align="center" src="gif/gym.gif"/>
   </td>
 </tr>
 <table>
