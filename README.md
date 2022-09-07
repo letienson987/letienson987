@@ -2,11 +2,12 @@
 
 My name is Le Tien Son
 
-- 🇻🇳 I'm Vietnamese
-- ❣ <a href="https://www.notion.so/Lee-Tien-Son-84a165483b864862a8fea60ee87bb624"> More about me! </a>
-- 🔭 I'm currently working at <a href="https://seniorautomationtest.com/">SATTEAM</a> 
-- 😄 Pronouns: Son
-- ⚡ Fun fact: I really want to find a new working environment
+  - 🇻🇳 I'm Vietnamese
+  - ❣ <a href="https://www.notion.so/Lee-Tien-Son-84a165483b864862a8fea60ee87bb624"> More about me! </a>
+  - 🔭 I'm currently working at <a href="https://seniorautomationtest.com/">SATTEAM</a> 
+  - 😄 Pronouns: Son
+  - ⚡ Fun fact: I really want to find a new working environment
+
 
 <h3 align="center"> 💬 Contact me <a  align="center" href="https://letienson987.github.io/contactme/">here</a>  </h3>
 
@@ -21,7 +22,7 @@ My name is Le Tien Son
 ### <table >
 <tr align="center" >
   <td width="400px">
-    <img  alt="gif" align="right" src="gif/giphy.gif"/>
+    <img width="410px" alt="gif" align="right" src="gif/giphy.gif"/>
   </td>  
   <td width="400px">
     <img width="300px"  alt="gif" align="left" src="gif/giphyxas.gif"/>
@@ -43,7 +44,7 @@ My name is Le Tien Son
 </div>
 
 
-<h3 align="center"> Frameworks & Libraries & Database </h3>
+<h3 align="center"> Frameworks & Tools & Database </h3>
 <div align="center">
   
   <img alt="Selenium" width="101px" hight="50px" src="https://img.shields.io/badge/SELENIUM-EFD39C?style=for-the-badge&logo=selenium&logoColor=4EC827" />
