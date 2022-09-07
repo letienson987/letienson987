@@ -57,15 +57,14 @@ My name is Le Tien Son
   
 </div>
   
- <h3 align="center"> Git Source Code Repository  </h3>
+<h3 align="center"> Git Source Code Repository  </h3>
 <div align="center">
   
   <img alt="gitlab" width="90px" hight="50px" src="https://img.shields.io/badge/GITLAB-EFD39C?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
   <img alt="github" width="92px" src="https://img.shields.io/badge/GITHUB-EFD39C?style=for-the-badge&logo=github&logoColor=181717"/>
   <img alt="bitbucket" width="115px" hight="50px" src="https://img.shields.io/badge/BITBUCKET-EFD39C?style=for-the-badge&logo=bitbucket&logoColor=blue" />
   
-  
-</div>
+ 
 
 
 
