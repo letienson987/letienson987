@@ -21,14 +21,14 @@ My name is Le Tien Son
 
 ### <table >
 <tr align="center" >
-  <td width="400px">
-    <img width="410px" alt="gif" align="right" src="gif/giphy.gif"/>
+  <td>
+    <img width="310px" alt="gif" align="right" src="gif/giphy.gif"/>
   </td>  
-  <td width="400px">
-    <img width="300px"  alt="gif" align="left" src="gif/giphyxas.gif"/>
+  <td>
+    <img width="200px"  alt="gif" align="left" src="gif/giphyxas.gif"/>
   </td>
-  <td width="400px">
-    <img width="200px" alt="gif" align="center" src="gif/gym.gif"/>
+  <td>
+    <img width="100px" alt="gif" align="center" src="gif/gym.gif"/>
   </td>
 </tr>
 <table>
