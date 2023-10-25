@@ -4,7 +4,7 @@ My name is Le Tien Son
 
   - 🇻🇳 I'm Vietnamese
   - ❣ <a href="https://www.notion.so/Lee-Tien-Son-84a165483b864862a8fea60ee87bb624"> More about me! </a>
-  - 🔭 I'm currently working at <a href="https://seniorautomationtest.com/">SATTEAM</a> 
+  - 🔭 I'm currently working at <a href="https://automationtestpro.com/">ATP Group</a> 
   - 😄 Pronouns: Son
   - ⚡ Fun fact: I really want to find a new working environment
 
